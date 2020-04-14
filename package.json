@@ -1,5 +1,5 @@
 {
-  "name": "use-hover",
+  "name": "use-hover-hook",
   "version": "0.1.0",
   "description": "custom hook for hovering",
   "main": "dist/index.js",
